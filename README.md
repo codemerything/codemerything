@@ -8,5 +8,5 @@
 - :green_heart: Love learning new technologies and solving problems.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mmnldm&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mmnldm)](https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-stats.vercel.app/api/top-langs?username=mmnldm&show_icons=true&locale=en&layout=compact)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=mmnldm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmnldm&layout=compact)](https://github.com/mmnldm/github-readme-stats)
