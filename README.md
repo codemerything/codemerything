@@ -8,6 +8,7 @@
 - :green_heart: Love learning new technologies and solving problems.
 
 ## My Github Stats && Technologies I use:
+
 <table>
   <tr>
     <td>
@@ -46,7 +47,7 @@
       </p>
     </td>
 	</tr>
-		<tr>
+<tr>
     <td>      
       <p align="center">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -71,7 +72,13 @@
         <p align="center">Figma</p>
       </p>
     </td>
-  </tr>
-
-		
+  </tr>	
    </table>
+   
+## Connect with me:
+
+<p align="center">
+  <a href = "https://www.linkedin.com/in/mmnldm"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/mmnldm"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/mmnldm"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
