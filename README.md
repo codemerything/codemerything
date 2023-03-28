@@ -20,3 +20,58 @@
       <a href="https://github.com/mmnldm"><img alt="Mmnldm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmnldm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   <tr>
+    <tr>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        </a>
+        <p align="center">JavaScript</p>
+      </p>
+    </td>
+     <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+        </a>
+        <p align="center">HTML5</p>
+      </p>
+    </td>
+        <td>
+      <p align="center">
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+      </a>
+        <p align="center">CSS</p>
+      </p>
+    </td>
+	</tr>
+		<tr>
+    <td>      
+      <p align="center">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+        </a>
+        <p align="center">Tailwind</p>
+      </p>
+    </td>
+    <td>            
+      <p align="center">
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+      </a>
+        <p align="center">NodeJS</p>
+      </p>
+    </td>
+    <td>           
+      <p align="center">
+        <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+        </a>
+        <p align="center">Figma</p>
+      </p>
+    </td>
+  </tr>
+
+		
+   </table>
