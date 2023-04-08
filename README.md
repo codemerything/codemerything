@@ -2,12 +2,12 @@
 
 
 - :panda_face:Hi, I'm Emmanuel aka @mmnldm
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently working on loads of exciting projects 
 - :thought_balloon: Also interested in everything javascript.
-- 💬 Ask me about front-end development, I might give a useful answer.
+- 💬  Currently typing code
 - :green_heart: Love learning new technologies and solving problems.
 
-## My Github Stats && Technologies I use:
+## Stats && Technologies I use:
 
 <table>
   <tr>
