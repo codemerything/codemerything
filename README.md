@@ -66,10 +66,10 @@
     </td>
     <td>           
       <p align="center">
-        <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+        <a href="https://www.reactjs.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
         </a>
-        <p align="center">Figma</p>
+        <p align="center">React</p>
       </p>
     </td>
   </tr>	
