@@ -1,11 +1,10 @@
 ### creative developer
 
 
-- :panda_face:Hi, I'm Emmanuel aka @mmnldm
-- 🌱 I’m currently working on loads of exciting projects 
-- :thought_balloon: Also interested in everything javascript.
-- 💬  Currently typing code
-- :green_heart: Love learning new technologies and solving problems.
+- :panda_face:Hi, I'm Em!
+- :thought_balloon: Everything Javascript here.
+- 💬  Love learning new technologies and solving problems
+- :green_heart: Making the web accessible and fast.
 
 ## Stats && Technologies I use:
 
