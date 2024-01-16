@@ -2,7 +2,7 @@
 
 
 - :panda_face:Hi, I'm Em!
-- :thought_balloon: I'm a front-end developer focused on Web Accessibility.
+- :thought_balloon: I'm a front-end developer focused on Web Accessibility & Performance Optimization. 
 - 💬  Love learning new technologies and solving problems
 - :green_heart: Making the web accessible and fast.
 
