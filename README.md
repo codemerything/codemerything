@@ -33,7 +33,10 @@
 <table>
 	<tr>
 		<td> <a href="https://github.com/mmnldm/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmnldm&repo=starsearch" /></a></td>
+				<td> <a href="https://github.com/mmnldm/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmnldm&repo=activity-forecast" /></a></td>
+				<td> <a href="https://github.com/mmnldm/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmnldm&repo=thequizapp" /></a></td>
 	</tr>
+	
 </table>
 
 [![Em's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mmnldm&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/mmnldm/starsearch)
