@@ -29,7 +29,7 @@
 
 
    
-## Checkout my projects: 
+## Check out my projects: 
 <table>
 	<tr>
 		<td> <a href="https://github.com/mmnldm/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmnldm&repo=starsearch" /></a></td>
