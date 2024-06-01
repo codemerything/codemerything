@@ -2,23 +2,9 @@
 
 
 - :panda_face:Hi, I'm Em!
-- :thought_balloon: I'm a front-end developer focused on Web Accessibility & Performance Optimization. 
-- 💬  Love learning new technologies and solving problems
+- :thought_balloon: I'm a front-end developer with a newly developed interest for Web3 !
+- 💬  Love learning new technologies and solving problems 
 - :green_heart: Making the web accessible and fast.
-
-## Stats && Technologies I use:
-<table>
-  <tr>
-    <td>
-    <a href="https://www.github.com/mmnldm">
-        <img src="https://api.vaunt.dev/v1/github/entities/mmnldm/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
-    </a>
-    </td>
-    <td>
-      <a href="https://www.github.com/mmnldm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmnldm&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-  </tr>
-</table>
 
 ## Tech Stack
 
@@ -32,17 +18,17 @@
 ## Check out my projects: 
 <table>
 	<tr>
-		<td> <a href="https://github.com/mmnldm/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmnldm&repo=starsearch" /></a></td>
-				<td> <a href="https://github.com/mmnldm/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmnldm&repo=activity-forecast" /></a></td>
-				<td> <a href="https://github.com/mmnldm/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmnldm&repo=thequizapp" /></a></td>
+		<td> <a href="https://github.com/codemerything/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=starsearch" /></a></td>
+				<td> <a href="https://github.com/codemerything/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=activity-forecast" /></a></td>
+				<td> <a href="https://github.com/codemerything/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=thequizapp" /></a></td>
 	</tr>
 	
 </table>
 
-[![Em's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mmnldm&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/mmnldm/starsearch)
+[![Em's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemerything&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/codemerything/starsearch)
 
 ## Technical Writer:
-<p>I publish artlicles on my personal <a href="https://mmnldm.hashnode.dev/">blog</a> about Javascript, Web Accessibility and I also compare programming concepts. </p>
+<p>I publish articles on my personal <a href="https://mmnldm.hashnode.dev/">blog</a> about Javascript, Web Accessibility and I also compare programming concepts. </p>
 
 Some of my recent articles:
 - [Introduction to Web APIs: A Beginner's Guide](https://mmnldm.hashnode.dev/introduction-to-web-apis/)
@@ -53,5 +39,4 @@ Some of my recent articles:
 
 <p>
 <a href = "https://www.linkedin.com/in/mmnldm"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/mmnldm"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
