@@ -4,7 +4,7 @@
 - :panda_face:Hi, I'm Em!
 - :thought_balloon: I'm a front-end developer with a newly developed interest for Web3 !
 - 💬  Love learning new technologies and solving problems 
-- :green_heart: Making the web accessible and fast.
+- :green_heart: Making the web accessible and fast
 
 ## Tech Stack
 
