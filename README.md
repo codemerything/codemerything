@@ -25,7 +25,6 @@
 	
 </table>
 
-[![Em's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemerything&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/codemerything/starsearch)
 
 ## Technical Writer:
 <p>I publish articles on my personal <a href="https://mmnldm.hashnode.dev/">blog</a> about Javascript, Web Accessibility and I also compare programming concepts. </p>
