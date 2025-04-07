@@ -1,8 +1,8 @@
 ### creative developer
 
 
-- :panda_face:Hi, I'm Emery
-- :thought_balloon: Currently building but steady tinkering.
+- :panda_face:hello , i'm emery
+- :thought_balloon: currently building but steady tinkering.
 - 🖱️ : software engineer 
 
 ## currently building: 
