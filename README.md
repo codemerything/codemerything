@@ -11,10 +11,8 @@
 ## projects i'm proud of: 
 <table>
 	<tr>
-		<td> <a href="https://github.com/codemerything/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=starsearch" /></a></td>
-				<td> <a href="https://github.com/codemerything/ecommerce-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=ecommerce-template" /></a></td>
-				<td> <a href="https://github.com/codemerything/thequizapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=thequizapp" /></a></td>
-	</tr>
+		<td> <a href="https://github.com/codemerything/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=emerything" /></a></td>
+		</tr>
 	
 </table>
 
