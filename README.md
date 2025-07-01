@@ -12,6 +12,7 @@
 <table>
 	<tr>
 		<td> <a href="https://github.com/codemerything/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=emerything" /></a></td>
+		<td> <a href="https://github.com/codemerything/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=degen-cost" /></a></td>
 		</tr>
 	
 </table>
