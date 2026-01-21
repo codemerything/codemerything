@@ -3,18 +3,8 @@
 
 - :panda_face:hello , i'm emery
 - :thought_balloon: currently building but steady tinkering.
-- 🖱️ : software engineer 
+- 🖱️ : software engineer | go lang
 
-
-   
-## projects i'm proud of: 
-<table>
-	<tr>
-		<td> <a href="https://github.com/codemerything/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=emerything" /></a></td>
-		<td> <a href="https://github.com/codemerything/starsearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codemerything&repo=degen-cost" /></a></td>
-		</tr>
-	
-</table>
 
 
 ## you can also find me:
