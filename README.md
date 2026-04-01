@@ -3,7 +3,7 @@
 
 - :panda_face:hello , i'm emery
 - :thought_balloon: currently building but steady tinkering.
-- 🖱️ : software engineer | go lang 
+- 🖱️ : software engineer | go lang | typescript | node | python
 
 ## currently working on: 
 <a href = "https://github.com/codemerything/airedspace"><i>airedspace<i/></a>
