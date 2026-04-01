@@ -1,15 +1,17 @@
-### creative developer
+<div> 
+    <div align="center">
+        <a href="https://emerything.dev">
+            <img src="./static/header.jpg" width="1000">
+        </a>
+    </div>
+
+</div>
+
+---
+
+Software engineer based in Nigeria, Africa specializing in Go, Typescript & Node.js. I love learning, tinkering is my passion.
 
 
-- :panda_face:hello , i'm emery
-- :thought_balloon: currently building but steady tinkering.
-- 🖱️ : software engineer | go lang | typescript | node | python
+<p align="right"> <sub>- Emery Edem (Updated in March 2026) </sub></p>
 
-## currently working on: 
-<a href = "https://github.com/codemerything/airedspace"><i>airedspace<i/></a>
 
-## you can also find me:
-
-<p>
-<a href = "https://www.emerything.dev">emerything.dev</a>
-</p>
