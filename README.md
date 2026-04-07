@@ -9,7 +9,7 @@
 
 ---
 
-Software engineer based in Nigeria, Africa specializing in Go, Typescript & Node.js. I love learning, tinkering is my passion.
+Software engineer specializing in Go, Typescript & Node.js. I love learning, tinkering is my passion.
 
 
 <p align="right"> <sub>- Emery Edem (Updated in March 2026) </sub></p>
